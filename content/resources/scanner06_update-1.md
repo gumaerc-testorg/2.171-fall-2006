@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-171-analysis-and-design-of-digital-control-systems-fall-2006/fc4ca2e1e9f9617ac903e24a98892c19_scanner06_update.pdf
+file: /media/courses/2-171-analysis-and-design-of-digital-control-systems-fall-2006/fc4ca2e1e9f9617ac903e24a98892c19_scanner06_update.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: scanner06_update.pdf
 uid: fc4ca2e1-e9f9-617a-c903-e24a98892c19
