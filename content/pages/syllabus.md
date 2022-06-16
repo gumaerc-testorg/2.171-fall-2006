@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section contains provides information about the course, including
+  prerequisites, textbook, laboratory assignments, problem sets, computation, grading,
+  and a calendar of key dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
