@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains information on the lab projects for the course.
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 title: Labs
 uid: cf5a4087-0e8b-9b1c-ef31-37ca1b45b803
 ---
@@ -31,7 +35,7 @@ SUPPLEMENTAL MATERIALS
 Lab 1
 {{< tdclose >}}
 {{< tdopen >}}
-Sampling Phenomena ([PDF]({{< baseurl >}}/resources/lab1))
+Sampling Phenomena ({{% resource_link 9a058cf1-a7ee-da6b-7507-51aced91a3e5 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -43,7 +47,7 @@ Sampling Phenomena ([PDF]({{< baseurl >}}/resources/lab1))
 Lab 2
 {{< tdclose >}}
 {{< tdopen >}}
-Direct Discrete-Time Frequency-Domain-Based Design ([PDF]({{< baseurl >}}/resources/lab2))
+Direct Discrete-Time Frequency-Domain-Based Design ({{% resource_link fd67d1c8-e82f-721d-d1e9-499fe820d2a8 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -55,7 +59,7 @@ Direct Discrete-Time Frequency-Domain-Based Design ([PDF]({{< baseurl >}}/resour
 Design Problem
 {{< tdclose >}}
 {{< tdopen >}}
-Design of a MIMO Controller via Classical Techniques ([PDF]({{< baseurl >}}/resources/designproblem06))
+Design of a MIMO Controller via Classical Techniques ({{% resource_link ea329c10-1e14-ca77-c965-14e475c0d385 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Biernson, G. "A Servo for Integrated-Circuit Photolithography." Chapter 15 in _Principles of Feedback Control._ Vol. 2. New York, NY: John Wiley & Sons, 1988. ISBN: 9780471501206.
@@ -67,10 +71,10 @@ Biernson, G. "A Servo for Integrated-Circuit Photolithography." Chapter 15 in _P
 Final Design Project
 {{< tdclose >}}
 {{< tdopen >}}
-Laser Light Show with X-Y Beam Scanner ([PDF]({{< baseurl >}}/resources/scanner06))
+Laser Light Show with X-Y Beam Scanner ({{% resource_link 88848348-9f1a-1dcd-d9de-f9a8521d0100 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Additional Design Details (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/scanner06_update))
+Additional Design Details ({{% resource_link 6f8bd52a-071d-566a-9a38-5d683c1f8486 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

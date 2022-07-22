@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information about recommended readings for the
+  course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 7f97c3c0-5703-dfbb-e462-7b4d21d281d7
 ---
