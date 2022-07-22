@@ -5,6 +5,7 @@ file: /courses/2-171-analysis-and-design-of-digital-control-systems-fall-2006/a4
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps2.pdf
 uid: a46fa508-9fb8-f809-cc92-fce6ddf5da45
 ---
 This resource contains problem set 2.
-

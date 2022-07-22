@@ -6,6 +6,7 @@ file: /courses/2-171-analysis-and-design-of-digital-control-systems-fall-2006/ea
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: designproblem06.pdf
 uid: ea329c10-1e14-ca77-c965-14e475c0d385
 ---
 This resource contains information on the design project, Design of a MIMO Controller via Classical Techniques.
-

@@ -6,6 +6,7 @@ file: /courses/2-171-analysis-and-design-of-digital-control-systems-fall-2006/2a
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: quiz1.pdf
 uid: 2a0f6fff-e180-932f-443f-43c960b13279
 ---
 This resource contains an open-book quiz. There are four problems, and each is worth 25 points.
-
