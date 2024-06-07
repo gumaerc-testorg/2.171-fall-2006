@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains problem set 5 solutions.
 file: /courses/2-171-analysis-and-design-of-digital-control-systems-fall-2006/a162276a4be2a68c3e2df6540b95cd34_ps5sol.pdf
+file_size: 283612
 file_type: application/pdf
 learning_resource_types:
 - Assignments
