@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains solutions for quiz 2.
-file: /courses/2-171-analysis-and-design-of-digital-control-systems-fall-2006/3668cdf30c9b9248c450f3b8d4e8f115_quiz2_sol.pdf
+file: /ol-ocw-studio-app/courses/2-171-analysis-and-design-of-digital-control-systems-fall-2006/3668cdf30c9b9248c450f3b8d4e8f115_quiz2_sol.pdf
 file_size: 325504
 file_type: application/pdf
 learning_resource_types:

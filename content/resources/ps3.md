@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains problem set 3.
-file: /courses/2-171-analysis-and-design-of-digital-control-systems-fall-2006/728d14b2a5e247de28defdefb6b6b573_ps3.pdf
+file: /ol-ocw-studio-app/courses/2-171-analysis-and-design-of-digital-control-systems-fall-2006/728d14b2a5e247de28defdefb6b6b573_ps3.pdf
 file_size: 133780
 file_type: application/pdf
 learning_resource_types:
