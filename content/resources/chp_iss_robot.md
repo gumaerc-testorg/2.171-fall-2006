@@ -4,7 +4,7 @@ description: Digital control systems are central to many advanced technologies s
   as robotics. In this photo, Mission Specialist Steve Robinson is anchored to a foot
   restraint on the International Space Station's robotic arm during a spacewalk. (Photo
   courtesy of NASA.)
-file: /courses/2-171-analysis-and-design-of-digital-control-systems-fall-2006/9472c10495142bbaf48c07ea09048fbf_chp_iss_robot.jpg
+file: /ol-ocw-studio-app/courses/2-171-analysis-and-design-of-digital-control-systems-fall-2006/9472c10495142bbaf48c07ea09048fbf_chp_iss_robot.jpg
 file_size: 53625
 file_type: image/jpeg
 image_metadata:
