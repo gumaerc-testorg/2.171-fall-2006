@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/2-171-analysis-and-design-of-digital-control-systems-fall-2006/fc4ca2e1e9f9617ac903e24a98892c19_scanner06_update.pdf
+file: /ol-ocw-studio-app/courses/2-171-analysis-and-design-of-digital-control-systems-fall-2006/fc4ca2e1e9f9617ac903e24a98892c19_scanner06_update.pdf
 file_size: 184332
 file_type: application/pdf
 learning_resource_types:
