@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains an open-book quiz. There are four problems, and
   each is worth 25 points.
-file: /courses/2-171-analysis-and-design-of-digital-control-systems-fall-2006/2a0f6fffe180932f443f43c960b13279_quiz1.pdf
+file: /ol-ocw-studio-app/courses/2-171-analysis-and-design-of-digital-control-systems-fall-2006/2a0f6fffe180932f443f43c960b13279_quiz1.pdf
 file_size: 255404
 file_type: application/pdf
 learning_resource_types:
